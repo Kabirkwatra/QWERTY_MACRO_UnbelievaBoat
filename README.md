@@ -3,7 +3,7 @@
 `F3` To Activate Macro, <br />
 `F8` To Stop Macro <br />
 
-Macro `.EXE` files are found in [Releases](https://github.com/Kabirkwatra/QWERTY_MACRO_UnbelievaBoat/releases) <br />
+Macro `.EXE` files are found in **[Releases](https://github.com/Kabirkwatra/QWERTY_MACRO_UnbelievaBoat/releases)** <br />
 Alternitivly, You can download the `.AHK` file and run it with AutoHotKey
 
 ### The Macro Does the following <br />
