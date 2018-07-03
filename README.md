@@ -1,7 +1,8 @@
 # Macro for private QWERTY Discord server
 `F3` To Activate Macro, <br />
 `F8` To Stop Macro <br />
-The Macro Does the following <br />
+
+### The Macro Does the following <br />
 - Types `!work`, <br />
 - Hits *enter*, <br />
 - Types `!dep all`, <br />
