@@ -7,9 +7,10 @@ Macro `.EXE` files are found in **[`Releases`](https://github.com/Kabirkwatra/QW
 Alternitivly, You can download the `.AHK` file and run it with AutoHotKey
 
 ### The Macro Does the following <br />
+- Opens QWERTY Channel `#FunFun` if open in background
 - Types `!work`, <br />
 - Hits *enter*, <br />
 - Types `!dep all`, <br />
 - Hits *Enter* again <br />
 - Waits **Either 5, 6, or 7 minutes** <br />
-- Repeats From Typing `!work` <br />
+- Repeats <br />
