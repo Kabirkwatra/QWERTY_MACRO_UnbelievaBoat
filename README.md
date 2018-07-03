@@ -1,5 +1,4 @@
-# qwertyMacro
-Macro for private QWERTY Discord server <br />
+# Macro for private QWERTY Discord server
 F3 To Activate Macro, <br />
 F8 To Stop Macro <br />
 The Macro Does the following <br />
