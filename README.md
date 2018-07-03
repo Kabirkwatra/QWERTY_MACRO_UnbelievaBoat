@@ -1,5 +1,5 @@
 # Macro for private QWERTY Discord server 
-[![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)](https://travis-ci.org/dwyl/esta) <br />
+[![Build Status](https://travis-ci.org/Kabirkwatra/QWERTY_MACRO_UnbelievaBoat.svg?branch=master)]https://travis-ci.org/Kabirkwatra/QWERTY_MACRO_UnbelievaBoat) <br />
 `F3` To Activate Macro, <br />
 `F8` To Stop Macro <br />
 
