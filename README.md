@@ -12,5 +12,6 @@ Alternitivly, You can download the `.AHK` file and run it with AutoHotKey
 - Hits *Enter*, <br />
 - Types `!dep all`, <br />
 - Hits *Enter* again <br />
+- Sends a Windows Toast Notification <br />
 - Waits **Either 5, 6, or 7 minutes** <br />
 - Repeats <br />
