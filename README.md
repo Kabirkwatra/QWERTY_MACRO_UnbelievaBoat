@@ -7,7 +7,7 @@
 `F8` To Stop Macro <br />
 
 Macro `.EXE` files are found in 
-[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg?style=popout)](https://github.com/Kabirkwatra/QWERTY_MACRO_UnbelievaBoat/releases) <br />
+[![Github All Releases]![Downloads badge](https://badged.co/kabirkwatra/QWERTY_MACRO_UnbelievaBoat)](https://github.com/Kabirkwatra/QWERTY_MACRO_UnbelievaBoat/releases) <br />
 Alternitivly, You can download the `.AHK` file and run it with AutoHotKey
 
 ### The Macro Does the following <br />
