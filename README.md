@@ -1,10 +1,10 @@
 # Macro for private QWERTY Discord server 
-[![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)](https://travis-ci.org/Kabirkwatra/QWERTY_MACRO_UnbelievaBoat)
-[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg?style=flat-square)](https://github.com/Kabirkwatra/QWERTY_MACRO_UnbelievaBoat/releases) <br />
+[![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)](https://travis-ci.org/Kabirkwatra/QWERTY_MACRO_UnbelievaBoat) <br />
 `F3` To Activate Macro, <br />
 `F8` To Stop Macro <br />
 
-Macro `.EXE` files are found in **[`Releases`](https://github.com/Kabirkwatra/QWERTY_MACRO_UnbelievaBoat/releases)** <br />
+Macro `.EXE` files are found in 
+[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg?style=popout)](https://github.com/Kabirkwatra/QWERTY_MACRO_UnbelievaBoat/releases) <br />
 Alternitivly, You can download the `.AHK` file and run it with AutoHotKey
 
 ### The Macro Does the following <br />
