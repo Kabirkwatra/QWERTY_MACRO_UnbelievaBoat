@@ -1,4 +1,4 @@
-# Macro for private QWERTY Discord server 
+# Macro for QWERTY Discord server 
 [![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)](https://github.com/Kabirkwatra/QWERTY_MACRO_UnbelievaBoat/releases)
 [![QWERTY Status](https://img.shields.io/badge/QWERTY-working-brightgreen.svg)](https://github.com/Kabirkwatra/QWERTY_MACRO_UnbelievaBoat/releases)
 [![GitHub license](https://img.shields.io/github/license/Kabirkwatra/QWERTY_MACRO_UnbelievaBoat.svg)](https://github.com/Kabirkwatra/QWERTY_MACRO_UnbelievaBoat/blob/master/LICENSE)
