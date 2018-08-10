@@ -3,10 +3,12 @@ counter := 0
 Loop {
   WinActivate "#funfun - Discord"
   Sleep 50
-  Send "!work"
+  Send "{!}"
+  Send "work"
   Send "{Enter}"
   Sleep 50
-  Send "!dep all"
+  Send "{!}"
+  Send "dep all"
   Sleep 50
   Send "{Enter}"
   counter += 1
@@ -16,7 +18,7 @@ Loop {
   else {
     TrayTip "The Macro Has been run " . counter . " times.", "Loop Counter"
 }
-  Sleep 18000
-  ; 18000ms = 5 minutes
+  Sleep 300000
+  ; 300000 = 5 minutes
 }
 F8::ExitApp
