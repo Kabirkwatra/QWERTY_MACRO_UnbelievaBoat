@@ -8,7 +8,7 @@ Loop {
   Send "{Enter}"
   Sleep 100
   Send "{!}"
-  Send "pay @Stormrader#7068 1"
+  SendRaw "pay @Stormrader#7068 1"
   Sleep 100
   Send "{Enter}"
   counter += 1
